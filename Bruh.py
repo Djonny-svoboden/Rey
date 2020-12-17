@@ -3,5 +3,4 @@ class MyClass():
     def Progression(b,q,n):
         b=q+n
         return b
-    print(Progression(2,3))
  
