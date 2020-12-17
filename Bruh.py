@@ -1,6 +1,6 @@
 import numpy as np
 class MyClass():
-    def Progression(q,n):
+    def Progression(b,q,n):
         b=q+n
         return b
     print(Progression(2,3))
